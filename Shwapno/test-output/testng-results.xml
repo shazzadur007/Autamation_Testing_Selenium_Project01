@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-02-17T16:56:00Z" name="Default suite" finished-at="2021-02-17T16:56:15Z" duration-ms="14961">
+  <suite started-at="2021-02-20T14:05:48Z" name="Default suite" finished-at="2021-02-20T14:05:58Z" duration-ms="9650">
     <groups>
     </groups>
-    <test started-at="2021-02-17T16:56:00Z" name="Default test" finished-at="2021-02-17T16:56:15Z" duration-ms="14961">
+    <test started-at="2021-02-20T14:05:48Z" name="Default test" finished-at="2021-02-20T14:05:58Z" duration-ms="9650">
       <class name="location">
-        <test-method signature="chooseLocation()[pri:0, instance:location@70e9c95d]" started-at="2021-02-17T16:56:00Z" name="chooseLocation" finished-at="2021-02-17T16:56:15Z" duration-ms="14946" status="PASS">
+        <test-method signature="chooseLocation()[pri:0, instance:location@7fb95505]" started-at="2021-02-20T14:05:48Z" name="chooseLocation" finished-at="2021-02-20T14:05:58Z" duration-ms="9635" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- chooseLocation -->
